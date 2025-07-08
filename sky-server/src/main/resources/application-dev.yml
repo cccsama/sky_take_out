@@ -7,8 +7,8 @@ sky:
     username: root
     password: 123456
 
-#  alioss:
-#    endpoint: oss-cn-hangzhou.aliyuncs.com
-#    access-key-id: LTAI5tELjqTHwKB5uW8S6bQf
-#    access-key-secret: VDBMame1EVC5TiTutlOQNsB7qMpfkK
-#    bucket-name: i-scream-sky-take-out
+  alioss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    access-key-id: LTAI5tELjqTHwKB5uW8S6bQf
+    access-key-secret: VDBMame1EVC5TiTutlOQNsB7qMpfkK
+    bucket-name: i-scream-sky-take-out
